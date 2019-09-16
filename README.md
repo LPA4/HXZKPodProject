@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # HXZKLib
 
 [![CI Status](https://img.shields.io/travis/lwcky/HXZKLib.svg?style=flat)](https://travis-ci.org/lwcky/HXZKLib)
@@ -28,7 +28,3 @@ lwcky, bychancelky@gmail.com
 ## License
 
 HXZKLib is available under the MIT license. See the LICENSE file for more info.
-=======
-# HXZKPodProject
-HXZK's pod project
->>>>>>> ed5f682b79e461323771ed5ac58dcf048611d053
