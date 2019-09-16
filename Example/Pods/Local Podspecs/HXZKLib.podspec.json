@@ -1,0 +1,22 @@
+{
+  "name": "HXZKLib",
+  "version": "0.1.0",
+  "summary": "A short description of HXZKLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lwcky/HXZKLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lwcky": "bychancelky@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/lwcky/HXZKLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HXZKLib/Classes/**/*"
+}

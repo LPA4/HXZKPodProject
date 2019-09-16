@@ -1,0 +1,6 @@
+framework module HXZKLib {
+  umbrella header "HXZKLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
